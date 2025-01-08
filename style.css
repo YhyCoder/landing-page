@@ -34,6 +34,7 @@ a {
   padding: 0.4em 2em;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
   color: #f9faf8;
   background-color: #3882f6;
 }
