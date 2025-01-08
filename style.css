@@ -202,3 +202,19 @@ a {
 .cta__text {
   font-size: 1.125rem;
 }
+
+/* Footer */
+
+.footer {
+  padding: 2.5em;
+}
+
+.footer--center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer__text {
+  font-size: 1.125rem;
+}
