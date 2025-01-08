@@ -4,4 +4,57 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-family: "Roboto", serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Utility Class */
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.container--flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.primary-background {
+  background-color: #1f2937;
+}
+
+.primary-text {
+  color: #f9faf8;
+}
+
+.secondary-text {
+  color: #e5e7eb;
+}
+
+/* Header */
+
+.header {
+  padding: 1.25em 0;
+}
+
+.header__logo {
+  font-size: 1.5rem;
+}
+
+.header__list {
+  display: flex;
+  gap: 1.75em;
+}
+
+.header__link {
+  font-size: 18px;
 }
