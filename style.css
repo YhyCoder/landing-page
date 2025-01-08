@@ -50,6 +50,10 @@ a {
   color: #e5e7eb;
 }
 
+.dark-text {
+  color: #1f2937;
+}
+
 /* Header */
 
 .header {
@@ -96,6 +100,49 @@ a {
 }
 
 .hero__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Information Section */
+
+.info {
+  padding: 3.125em 0 7.5em;
+  text-align: center;
+}
+
+.info__title {
+  margin-bottom: 1.3em;
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.info__wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 2.5em;
+}
+
+.info__item {
+  flex-basis: 180px;
+}
+
+.info__text {
+  font-size: 1.125rem;
+}
+
+.info__figure {
+  max-width: 165px;
+  width: 100%;
+  height: 165px;
+  border: 4px solid #3882f6;
+  border-radius: 15px;
+  margin: 0 auto 0.75em;
+  overflow: hidden;
+}
+
+.info__image {
   width: 100%;
   height: 100%;
   object-fit: cover;
