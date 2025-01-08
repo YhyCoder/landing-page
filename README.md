@@ -2,7 +2,7 @@
 
 second project from The Odin Project Foundations Course
 
-Landing Page is the second project of The Odin Project Foundation Course
+Landing Page is the second project of The Odin Project Foundation Course  
 In this course, how to work with flexbox has been practiced and it has been helped to review the previous lessons
 
 **Credit the creators of the images:**  
