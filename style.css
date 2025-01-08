@@ -147,3 +147,29 @@ a {
   height: 100%;
   object-fit: cover;
 }
+
+/* Testimonial Section */
+
+.testimonial {
+  padding: 8.125em 0 6.25em;
+  background-color: #e5e7eb;
+}
+
+.testimonial__wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.testimonial__text {
+  font-size: 2.25rem;
+  font-weight: 300;
+}
+
+.testimonial__author {
+  align-self: flex-end;
+  margin-right: 2em;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
